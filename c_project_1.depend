@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1645489244 source:c:\users\gurin\desktop\workspace\c_project_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mem.h>
+
+1645489244 source:c:\users\gurin\desktop\c언어\과제\c_project_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<mem.h>
+
